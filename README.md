@@ -25,6 +25,10 @@ Dieser Proof-of-Concept (POC) läuft vollständig lokal – ideal für den Einsa
 - **Temporärer Relay-Puffer (volatile)**  
   → Kein Klartext, keine Logs, kein Social Graph.
 
+- **Temporärer Relay-Puffer (volatile)**  
+  → Cirql unterstützt den Betrieb über das Tor-Netzwerk – inklusive optionalem Onion-Link für relaybasierte Kommunikation ohne sichtbare IP, ideal für vertrauliche Umgebungen und anonyme Nutzung.
+  
+
 ---
 
 ## 📁 Projektstruktur (Ausschnitt)
